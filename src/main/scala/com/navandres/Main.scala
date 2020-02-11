@@ -1,10 +1,9 @@
-package com.soni.main
+package com.navandres
 
 import java.net.InetSocketAddress
 
 import akka.actor.{ActorRef, ActorSystem, Props}
 import akka.util.ByteString
-import com.soni.server.TcpServer
 
 object Main {
   def main(args: Array[String]): Unit = {
