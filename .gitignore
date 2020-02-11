@@ -1,2 +1,6 @@
-target
+*.iml
+*.ipr
+*.iws
 .idea
+target
+out
